@@ -1,6 +1,6 @@
-EdpUserSocial
-=============
+# EdpUserSocial
 Version 0.0.1 Created by Evan Coury
+#### ![OpenID](http://evan.pro/edpusersocial/openid.png) ![Google](http://evan.pro/edpusersocial/google.png) ![Yahoo](http://evan.pro/edpusersocial/yahoo.png) ![Facebook](http://evan.pro/edpusersocial/facebook.png) ![Twitter](http://evan.pro/edpusersocial/twitter.png) ![LinkedIn](http://evan.pro/edpusersocial/linkedin.png) ![Windows Live](http://evan.pro/edpusersocial/live_id.png) ![MySpace](http://evan.pro/edpusersocial/myspace.png)
 
 Introduction
 ------------
